@@ -1,6 +1,4 @@
-# utils/password_gen.py
-import random
-import string
+import random, string
 
 def generate_password(length=6):
     chars = string.ascii_letters + string.digits
