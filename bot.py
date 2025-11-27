@@ -1,8 +1,8 @@
 # config.py
 
 # Telegram
-BOT_TOKEN = "8254854603:AAGGGOls7O-oXn5HtJ1QrY7DIxtbPzVTbCI"
-ADMIN_ID = 1734795991  # ваш Telegram ID, чтобы получать скрины
+BOT_TOKEN = "8254854603:AAGGGOls7O-oXn5HtJ1QrY7DIxtbPzVTbCI"  # токен от BotFather
+ADMIN_ID = 1734795991           # ваш числовой Telegram ID
 
 # Оплата
 CARD_NUMBER = "2202 2081 7115 4504"
@@ -25,6 +25,6 @@ FTP_PASS = 'maPInL8bGll0fmWnUoqp'
 USERS_INI_PATH = 'addons\\amxmodx\\configs\\users.ini'
 
 # RCON
-RCON_HOST = '127.0.0.1'
-RCON_PORT = 27015
+RCON_HOST = '193.19.119.166'
+RCON_PORT = 8888
 RCON_PASS = 'R2013dkwdm3'
